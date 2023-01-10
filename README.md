@@ -1,2 +1,0 @@
-# MyCaptain-Python
-Assignment
